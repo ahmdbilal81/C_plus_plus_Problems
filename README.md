@@ -16,3 +16,9 @@ I’m currently learning Data Science from FAST-NU, Lahore. Besides Python, I al
   ![image](https://github.com/ahmdbilal81/C_plus_plus_Problems/assets/138764971/3ca163ac-e7a5-47c4-b26e-9b7604184d3c)
   <br>
   <br>
+  <br>
+  ### <font color="Red">2. Arranging people using backtracking</font>
+  ![image](https://github.com/ahmdbilal81/C_plus_plus_Problems/assets/138764971/d925f1dd-fd68-4fa4-9689-7287d53d9621)
+  <br>
+  <br>
+  <br>
