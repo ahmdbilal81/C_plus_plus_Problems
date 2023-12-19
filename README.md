@@ -22,3 +22,12 @@ I’m currently learning Data Science from FAST-NU, Lahore. Besides Python, I al
   <br>
   <br>
   <br>
+  ### <font color="Red">3. Elite Node</font>
+  ![image](https://github.com/ahmdbilal81/C_plus_plus_Problems/assets/138764971/0ee765b5-d36a-4dab-8df2-aca03b90c499)
+  <br>
+  ![image](https://github.com/ahmdbilal81/C_plus_plus_Problems/assets/138764971/8ca244da-0771-4ea2-a544-da318340ae43)
+  <br>
+  ![image](https://github.com/ahmdbilal81/C_plus_plus_Problems/assets/138764971/1782246b-6710-41eb-aea4-4e06e3000d05)
+  <br>
+  <br>
+  <br>
