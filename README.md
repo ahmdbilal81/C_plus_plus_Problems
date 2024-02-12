@@ -31,3 +31,8 @@ I’m currently learning Data Science from FAST-NU, Lahore. Besides Python, I al
   <br>
   <br>
   <br>
+  ### <font color="Red">4.Paper Stack</font>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/8a4387e6-5387-4301-b07b-c4f41bf1c0a5)
+  <br>
+  <br>
+  <br>
