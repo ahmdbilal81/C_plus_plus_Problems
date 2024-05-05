@@ -36,3 +36,25 @@ I’m currently learning Data Science from FAST-NU, Lahore. Besides Python, I al
   <br>
   <br>
   <br>
+  <br>
+   ### <font color="Red">4.PolyCalculator</font>
+   <br>
+   <br>
+   ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/885760e4-15f7-4e01-910f-340bdcb005f8)
+  <br>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/18cc7fff-d8b8-4ea0-9ec2-c8ddd764753b)
+  <br>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/a7cfffb3-679b-4cd0-9e26-1badcaf0955b)
+  <br>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/836f64b0-ea8a-49c5-be46-70f92d117bca)
+  <br>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/cdb9ab54-1155-472a-8268-e4eeb7bb60b2)
+  <br>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/d4ff3866-4491-4305-983c-ce3b9ac9dcbb)
+  <br>
+  ![image](https://github.com/ahmddbilall/C_plus_plus_Problems/assets/138764971/0c462b52-f5f6-4453-9f6f-948790bc0b3b)
+  <br>
+  <br>
+  <br>
+  <br>
+
